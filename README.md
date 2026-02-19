@@ -38,38 +38,11 @@ I'm Shubham Rai
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Sales Analytics Platform
-- Built **end-to-end analytics pipeline** processing 120K+ records  
-- Designed **star schema + optimized SQL indexing** for fast analytics  
-- Dockerized FastAPI service exposing real-time analytics APIs  
-
-### 🔹 AI YouTube Video Summarizer
-- Full-stack NLP app for summarizing long videos  
-- Automated workflow using **n8n + MongoDB**  
-- Scalable chunking strategy for long transcripts  
-
-### 🔹 Churn Prediction MLOps Pipeline
-- End-to-end **MLOps pipeline with MLflow Model Registry**  
-- Production-ready FastAPI service with dynamic model loading  
-- Real-time predictions + safe rollback system  
-
----
-
 ## 🌍 Open Source
 
 - Contributor at **Meshery (CNCF)**
 - Contributor at **mysqljs/mysql**
 - Active in DevOps & Cloud native ecosystem
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sooovamm&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sooovamm&layout=compact)
 
 ---
 
