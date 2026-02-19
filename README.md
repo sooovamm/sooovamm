@@ -67,9 +67,9 @@ I'm Shubham Rai
 
 ## 📊 GitHub Stats
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooovamm&show_icons=true&theme=tokyonight)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooovamm&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sooovamm&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sooovamm&layout=compact)
 
 ---
 
