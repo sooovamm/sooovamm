@@ -81,8 +81,6 @@ I'm Shubham Rai
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/sooovamm  
-- LinkedIn: (Add your link)  
 - Email: raishubham1414@gmail.com  
 
 ---
