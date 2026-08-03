@@ -112,13 +112,13 @@ My interests include:
 
 <p align="center">
 
-
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sooovamm&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooovamm&layout=compact&theme=tokyonight"/>
+
 
 </p>
 
